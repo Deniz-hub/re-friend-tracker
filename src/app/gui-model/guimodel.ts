@@ -125,6 +125,25 @@ export class GuiModel {
                         }
                     ]
                 },
+                {
+                "id": "GroupForm", 
+                "title": "Group", 
+                "url": "/group", 
+                "formFieldList": [
+                                {
+                    "id": "name",
+                    "type": "text",
+                    "name": "GroupName", "width": 2,
+                    "required": true
+                        }, {
+                        "name": "Delete" },
+                          {
+                    "type": "cancelButton", "name": "Cancel"
+                           }, {
+                    "name": "Ok" 
+                           }
+                        ] 
+                }
             ],
             "pageList": [
                 {
