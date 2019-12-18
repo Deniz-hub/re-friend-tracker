@@ -15,7 +15,7 @@ private _guiModel = {
 
 "application": {
 
-"title": "Edoardo's Friend Tracker",
+"title": "Deniz Friend Tracker",
 
 "formList": [
 
